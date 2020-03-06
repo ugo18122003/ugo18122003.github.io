@@ -1,6 +1,6 @@
 h1
 { 
-    color :black;
+    color :blue;
 }
 body
 { 
@@ -25,10 +25,4 @@ body
     align-content: center;
 
 
-}
-
-p.images {
-    widows: 800px;
-    float: left;
-    margin: 0 10px 0 0;
 }
