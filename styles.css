@@ -4,6 +4,10 @@ h1
 }
 body
 { 
+    background-color:rgb(117, 204, 255);
+}
+body2
+{ 
     background-color:grey;
 }
 #carte 
